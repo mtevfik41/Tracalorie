@@ -1,8 +1,8 @@
-
-
 <!-- ABOUT THE PROJECT -->
 
 # Tracalorie
+
+- [Netlify](https://tracalorie-app.netlify.app/)
 
 Calorie tracking app with CRUD operations. I developed it using DOM, Module pattern, Local Storage and Materialize CSS.
 
